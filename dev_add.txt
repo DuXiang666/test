@@ -1,1 +1,4 @@
 dev_add.txt
+
+第二次提交大娃娃的
+gitstatus
